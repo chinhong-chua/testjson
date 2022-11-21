@@ -1,0 +1,41 @@
+{
+  "IsSuccessful": true,
+  "Errors": null,
+  "Data": [
+    {
+      "CRM_ID": "0434A0B2-14BB-EC11-968C-005056B57F58",
+      "RequestDate": "2022-10-10",
+
+      "RSC_List": [
+        {
+          "SN": "SN1",
+          "Name": "Name",
+          "LicenceID": "ABD92FCA-0912-EC11-9688-005056B57F58",
+          "LicenseCategory": "100000000",
+          "TeamMemberNumber": "S3900530A",
+          "DeployedJobDepartment": "194AC874-D80E-EC11-9685-005056B57F58",
+          "DeployedJobBranch": "92829891-D80E-EC11-9685-005056B57F58",
+          "DeployedJobPosition": "e9cf714c-502f-ec11-9678-005056893cf5",
+          "Acknowledge": "100000000",
+          "ReasonforNotProceed": "Reason123",
+          "DeadlineToCompleteSubmission": "2022-12-09",
+          "Status": "100000000"
+        },
+        {
+            "SN": "SN2",
+            "Name": "Name2",
+            "LicenceID": "ABD92FCA-0912-EC11-9688-005056B57F58",
+            "LicenseCategory": "100000000",
+            "TeamMemberNumber": "S3900530A",
+            "DeployedJobDepartment": "194AC874-D80E-EC11-9685-005056B57F58",
+            "DeployedJobBranch": "92829891-D80E-EC11-9685-005056B57F58",
+            "DeployedJobPosition": "5231694d-267d-ec11-967c-005056893cf5",
+            "Acknowledge": "100000001",
+            "ReasonforNotProceed": "Reason 456",
+            "DeadlineToCompleteSubmission": "2022-12-09",
+            "Status": "100000000"
+          }
+      ]
+    }
+  ]
+}
